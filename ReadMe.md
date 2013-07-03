@@ -1,21 +1,38 @@
 Show-Renamer
 ============
 
-Abstract
+Important
+---------
+
+This project has be deprecated. Please check out the C# port of the project at: https://github.com/holymoo/Sweet-Show-Renamer
+
+Details
 --------
 
-One of the problems that stems from downloading shows of the internet is that often times the shows come added with all this.
+This is a Python script which is used to help with the management of TV Show filenames.
 
-Problem
+
+License
 -------
 
-Solution
---------
+The MIT License
 
-How to Use It
--------------
+Copyright (c) 2012 Grant Byrne
 
-Windows:
-	Assuming that python 2.7 is already installed you can just double click the .py file and it will get to work.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-OSX/Unix:
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
